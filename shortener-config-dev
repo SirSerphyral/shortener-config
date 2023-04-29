@@ -1,0 +1,11 @@
+## Longitud de la clave a generar
+env.longitudCadenaClave = 7
+## Porcentaje de caracteres especiales a generar para la clave
+env.porcentajeCaracteresClave = 0
+
+logging.level.org.springframework.data.mongodb.core.MongoTemplate=debug
+
+
+env.shortenerDB: urlShortenerBD
+env.shortenerUSER: shortenerUser
+env.shortenerPWD: EY11\$C=
